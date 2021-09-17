@@ -1,6 +1,10 @@
 from module import func
 
 
+def new_func_2():
+    pass
+
+
 def new_func():
     pass
 
